@@ -15,7 +15,7 @@ difficulty:2
 fancyGraphics:true
 ao:2
 renderClouds:true
-resourcePacks:["Modernity-f3-3.10.2.zip","Emis_Rlcraft.zip","LowOnFire_1.12.zip"]
+resourcePacks:["Modernity-f3-3.10.2.zip","Emis_Rlcraft.zip","LowOnFire_1.12.zip","Boss Bars+ 1.12.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
