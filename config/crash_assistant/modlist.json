@@ -830,12 +830,12 @@
     "curseForgeHash": 2338303808,
     "modrinthHash": "d8853dbd60fd050709d2d687d875cb0d93806e92"
   },
-  "lemonskin-3.1.0.jar": {
-    "jarName": "lemonskin-3.1.0.jar",
+  "lemonskin-4.0.0.jar": {
+    "jarName": "lemonskin-4.0.0.jar",
     "modId": "lemonskin",
-    "version": "3.1.0",
-    "curseForgeHash": 3825151617,
-    "modrinthHash": "c5b285c7e45077c8f002ae5c04520c8ae26ce263"
+    "version": "4.0.0",
+    "curseForgeHash": 3242005743,
+    "modrinthHash": "a3445db181f0837da44d0434f4bef31ac34bd098"
   },
   "LibrarianLib-Continuous-1.12.2-4.22-2.0-3.jar": {
     "jarName": "LibrarianLib-Continuous-1.12.2-4.22-2.0-3.jar",
