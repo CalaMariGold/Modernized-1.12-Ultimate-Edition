@@ -1016,6 +1016,13 @@
     "curseForgeHash": 632494130,
     "modrinthHash": "86b6cd29e92179711dbe7931c0c3503f3dd949d3"
   },
+  "omniwand-1.12.2-2.0.4.jar": {
+    "jarName": "omniwand-1.12.2-2.0.4.jar",
+    "modId": "omniwand",
+    "version": "1.12.2-2.0.4",
+    "curseForgeHash": 1665930626,
+    "modrinthHash": "66c3f1f4e7761a9ff830d2d4f41d1951ad4b80a5"
+  },
   "omocha-1.1.01.jar": {
     "jarName": "omocha-1.1.01.jar",
     "curseForgeHash": 252655348,
