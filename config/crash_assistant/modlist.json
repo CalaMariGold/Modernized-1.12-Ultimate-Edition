@@ -355,6 +355,13 @@
     "curseForgeHash": 2814761965,
     "modrinthHash": "c4c9a362baf6404024d44cd63e673eb7a44494ba"
   },
+  "compactmachines3-1.12.2-3.0.18-b278.jar": {
+    "jarName": "compactmachines3-1.12.2-3.0.18-b278.jar",
+    "modId": "compactmachines3",
+    "version": "1.12.2-3.0.18-b278",
+    "curseForgeHash": 2656999452,
+    "modrinthHash": "aca4d439b8a7c480217c43ebda60772ef6eb392e"
+  },
   "ContentTweaker-1.12.2-4.10.0.jar": {
     "jarName": "ContentTweaker-1.12.2-4.10.0.jar",
     "modId": "contenttweaker",
