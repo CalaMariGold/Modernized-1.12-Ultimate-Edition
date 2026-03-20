@@ -369,6 +369,13 @@
     "curseForgeHash": 2011021929,
     "modrinthHash": "a8e92873d04ad4b46766ff18e605914eabc20387"
   },
+  "corpse-1.12.2-1.0.8.jar": {
+    "jarName": "corpse-1.12.2-1.0.8.jar",
+    "modId": "corpse",
+    "version": "1.12.2-1.0.8",
+    "curseForgeHash": 3671212029,
+    "modrinthHash": "e367bec5785091dc9c928c1a95672a4774b0f0fd"
+  },
   "corpsecomplex-1.12.2-1.0.12.0.jar": {
     "jarName": "corpsecomplex-1.12.2-1.0.12.0.jar",
     "modId": "corpsecomplex",
