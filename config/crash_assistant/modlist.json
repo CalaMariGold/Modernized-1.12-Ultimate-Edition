@@ -299,6 +299,13 @@
     "curseForgeHash": 1794581938,
     "modrinthHash": "6b48020b113f227d92a2d5ea3d763c9bf6196554"
   },
+  "cc-tweaked-1.12.2-1.89.2.jar": {
+    "jarName": "cc-tweaked-1.12.2-1.89.2.jar",
+    "modId": "computercraft",
+    "version": "1.89.2",
+    "curseForgeHash": 3991938277,
+    "modrinthHash": "f35510b6117ef0e69211440e6c7a64be7eb28590"
+  },
   "Chameleon-1.12-4.1.3.jar": {
     "jarName": "Chameleon-1.12-4.1.3.jar",
     "modId": "chameleon",
