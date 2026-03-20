@@ -858,6 +858,13 @@
     "curseForgeHash": 2861613342,
     "modrinthHash": "25466f0709c6bb1f22232bfda9e53d4946c9ae1e"
   },
+  "LibraryEx-1.12.2-1.2.2.jar": {
+    "jarName": "LibraryEx-1.12.2-1.2.2.jar",
+    "modId": "libraryex",
+    "version": "1.2.2",
+    "curseForgeHash": 1183275890,
+    "modrinthHash": "5d7a987ce176d23e49c2f3bedd9bda218ef1160f"
+  },
   "llibrary-1.7.20-1.12.2.jar": {
     "jarName": "llibrary-1.7.20-1.12.2.jar",
     "modId": "llibrary",
@@ -994,6 +1001,13 @@
     "version": "1.4.2",
     "curseForgeHash": 3054348510,
     "modrinthHash": "594494bb496e21cbae011c15e5f9e6bd75fa4724"
+  },
+  "NetherEx-1.12.2-2.2.5.jar": {
+    "jarName": "NetherEx-1.12.2-2.2.5.jar",
+    "modId": "netherex",
+    "version": "2.2.5",
+    "curseForgeHash": 141515005,
+    "modrinthHash": "c7f4a5b135430b8393f69e971d4e0c6c6ff0c2d7"
   },
   "neverenoughanimations-1.0.7.jar": {
     "jarName": "neverenoughanimations-1.0.7.jar",
