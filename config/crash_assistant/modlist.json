@@ -544,6 +544,13 @@
     "curseForgeHash": 4123246348,
     "modrinthHash": "dec0d57f19fe0296ed5c21fc4e04b6b64b35cc59"
   },
+  "eyeofdragons-0.0.5.jar": {
+    "jarName": "eyeofdragons-0.0.5.jar",
+    "modId": "eyeofdragons",
+    "version": "0.0.5",
+    "curseForgeHash": 2759618025,
+    "modrinthHash": "ab9675c2a159de2ba85bd61c49762459de3e469e"
+  },
   "fermiumasm-5.31.jar": {
     "jarName": "fermiumasm-5.31.jar",
     "modId": "normalasm",
