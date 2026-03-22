@@ -1220,6 +1220,13 @@
     "curseForgeHash": 2082043449,
     "modrinthHash": "89a789e7af4bdb3b8120c5c3efc6a7f30779b7fb"
   },
+  "refraction-1.12.2-2.0.5.jar": {
+    "jarName": "refraction-1.12.2-2.0.5.jar",
+    "modId": "refraction",
+    "version": "${version}",
+    "curseForgeHash": 3444838327,
+    "modrinthHash": "848545ad21f9c6b0e1adfc1318706059598bb8fe"
+  },
   "RenderLib-1.12.2-1.4.5.jar": {
     "jarName": "RenderLib-1.12.2-1.4.5.jar",
     "modId": "renderlib",
