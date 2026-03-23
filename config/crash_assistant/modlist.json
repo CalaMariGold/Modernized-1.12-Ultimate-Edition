@@ -1058,6 +1058,13 @@
     "curseForgeHash": 1143501325,
     "modrinthHash": "b70d60e9ebd5e84962c4ddd6abfd2bbde178cafb"
   },
+  "NTM-CE-1.12.2-2.1.1.0.jar": {
+    "jarName": "NTM-CE-1.12.2-2.1.1.0.jar",
+    "modId": "hbm",
+    "version": "2.1.1.0",
+    "curseForgeHash": 411941580,
+    "modrinthHash": "d407259ded72e2d57a9bae796827a8a03e28d5ff"
+  },
   "OceanicExpanse-1.2.2.jar": {
     "jarName": "OceanicExpanse-1.2.2.jar",
     "modId": "oe",
@@ -1072,10 +1079,12 @@
     "curseForgeHash": 1665930626,
     "modrinthHash": "66c3f1f4e7761a9ff830d2d4f41d1951ad4b80a5"
   },
-  "omocha-1.1.01.jar": {
-    "jarName": "omocha-1.1.01.jar",
-    "curseForgeHash": 252655348,
-    "modrinthHash": "09f8bca05fc8df426c8b19dea2945afeeb29e932"
+  "omocha-1.1.1.jar": {
+    "jarName": "omocha-1.1.1.jar",
+    "modId": "uut",
+    "version": "1.1.1",
+    "curseForgeHash": 2199839488,
+    "modrinthHash": "90d58834fbc961058e2c538fdc002bd67ad4ae8d"
   },
   "OptiFine_1.12.2_HD_U_G6_pre1.jar": {
     "jarName": "OptiFine_1.12.2_HD_U_G6_pre1.jar",
@@ -1516,12 +1525,12 @@
     "curseForgeHash": 3724894852,
     "modrinthHash": "dece84febbf3d97b68421510e5037ba77b93e39b"
   },
-  "zenutils-1.26.17.jar": {
-    "jarName": "zenutils-1.26.17.jar",
+  "zenutils-1.26.18.jar": {
+    "jarName": "zenutils-1.26.18.jar",
     "modId": "zenutils",
-    "version": "1.26.17",
-    "curseForgeHash": 2950513414,
-    "modrinthHash": "d7fc3e89499c02be18dcb6ad2ccc1a7af401a2f7"
+    "version": "1.26.18",
+    "curseForgeHash": 383736035,
+    "modrinthHash": "5bdb9a2d2152635fc7c14c044cd341fa5971871e"
   },
   "zspacket-0.0.1.jar": {
     "jarName": "zspacket-0.0.1.jar",
