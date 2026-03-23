@@ -1058,6 +1058,20 @@
     "curseForgeHash": 3462876034,
     "modrinthHash": "7d2b9e97518dca1e9326fd347ba1eb93dec35999"
   },
+  "mysticallib-1.12.2-1.13.0.jar": {
+    "jarName": "mysticallib-1.12.2-1.13.0.jar",
+    "modId": "mysticallib",
+    "version": "1.12.2-1.13.0",
+    "curseForgeHash": 293225086,
+    "modrinthHash": "015d2d3768a3937e64af8bd93b59436603ad790d"
+  },
+  "mysticalworld-1.12.2-1.11.0.jar": {
+    "jarName": "mysticalworld-1.12.2-1.11.0.jar",
+    "modId": "mysticalworld",
+    "version": "1.12.2-1.11.0",
+    "curseForgeHash": 195298617,
+    "modrinthHash": "2c553879a5399c0ecbd6d66ab2f2295ecc8deb89"
+  },
   "nae2-1.6.4.jar": {
     "jarName": "nae2-1.6.4.jar",
     "modId": "nae2",
@@ -1383,12 +1397,19 @@
     "curseForgeHash": 1375653001,
     "modrinthHash": "e81c507f2ea43ff2642e48d65c8d4c1b18f44bcb"
   },
-  "RoughlyEnoughIDs-2.2.4.jar": {
-    "jarName": "RoughlyEnoughIDs-2.2.4.jar",
+  "Roots-1.12.2-3.1.9.2.jar": {
+    "jarName": "Roots-1.12.2-3.1.9.2.jar",
+    "modId": "roots",
+    "version": "1.12.2-3.1.9.2",
+    "curseForgeHash": 798879904,
+    "modrinthHash": "0784ad867c0f9b4074c356c0985f68922f84b351"
+  },
+  "RoughlyEnoughIDs-2.3.0.jar": {
+    "jarName": "RoughlyEnoughIDs-2.3.0.jar",
     "modId": "jeid",
-    "version": "2.2.4",
-    "curseForgeHash": 1065391211,
-    "modrinthHash": "53b09b6c9a054cf3523204353212b72e77d7d155"
+    "version": "2.3.0",
+    "curseForgeHash": 1314483655,
+    "modrinthHash": "cb72db84dd8c814b4cc8c827e5335e9859e24862"
   },
   "rpsideas-2.4.4.jar": {
     "jarName": "rpsideas-2.4.4.jar",
