@@ -264,6 +264,13 @@
     "curseForgeHash": 2546524333,
     "modrinthHash": "83a1864dd78f48102609849dd36866d6cf32b907"
   },
+  "Botania r1.10-370.jar": {
+    "jarName": "Botania r1.10-370.jar",
+    "modId": "botania",
+    "version": "r1.10-370",
+    "curseForgeHash": 3912380665,
+    "modrinthHash": "ba66aa486fec607c3223273af038c97625b34b90"
+  },
   "brigo_forge-1.1.1+1.12.x.jar": {
     "jarName": "brigo_forge-1.1.1+1.12.x.jar",
     "modId": "brigo",
@@ -509,6 +516,13 @@
     "curseForgeHash": 2866554357,
     "modrinthHash": "cf4a4a6b11b1721fbda1edeb32bdc3b1ac3a8560"
   },
+  "environmentaltech-1.12.2-2.0.20.1.jar": {
+    "jarName": "environmentaltech-1.12.2-2.0.20.1.jar",
+    "modId": "environmentaltech",
+    "version": "1.12.2-2.0.20.1",
+    "curseForgeHash": 1520876991,
+    "modrinthHash": "2505c74c38e7083448a9473a7fba4713d9d620c1"
+  },
   "Erebus-1.0.32.jar": {
     "jarName": "Erebus-1.0.32.jar",
     "modId": "erebus",
@@ -529,6 +543,13 @@
     "version": "1.3",
     "curseForgeHash": 3924128411,
     "modrinthHash": "7ea716f64674949aea8c3ed316a3d563002f7a79"
+  },
+  "ExtraBotany-r1.1-61-DarkestJourney2.jar": {
+    "jarName": "ExtraBotany-r1.1-61-DarkestJourney2.jar",
+    "modId": "extrabotany",
+    "version": "r1.1-61-DarkestJourney2",
+    "curseForgeHash": 3139907481,
+    "modrinthHash": "accac1e779f71898b2553d102e8020d53e817c1b"
   },
   "ExtraSounds-1.12.2-1.4.1.jar": {
     "jarName": "ExtraSounds-1.12.2-1.4.1.jar",
@@ -830,6 +851,13 @@
     "curseForgeHash": 3591503010,
     "modrinthHash": "2b96f7b27b088fddbb5e603848d7aeaebedb96f3"
   },
+  "Just-Enough-Botania-1.12.2-v0.2.jar": {
+    "jarName": "Just-Enough-Botania-1.12.2-v0.2.jar",
+    "modId": "botaniajei",
+    "version": "v0.2",
+    "curseForgeHash": 2022446630,
+    "modrinthHash": "b8a8d61efe29b4ef9c593fb5f776c5666fd309d7"
+  },
   "justenoughdrags-1.4-beta.1.jar": {
     "jarName": "justenoughdrags-1.4-beta.1.jar",
     "modId": "justenoughdrags",
@@ -1002,6 +1030,13 @@
     "curseForgeHash": 2324987361,
     "modrinthHash": "02018e1e520d478b2b82a63ddb679452957bd415"
   },
+  "NaturalPledge-r3.1.2.jar": {
+    "jarName": "NaturalPledge-r3.1.2.jar",
+    "modId": "botanicaladdons",
+    "version": "3.1.2",
+    "curseForgeHash": 2850100115,
+    "modrinthHash": "2e4e4456adea41df1a8739fffd1d731bc61df710"
+  },
   "NaturesCompass-1.12.2-1.8.5.jar": {
     "jarName": "NaturesCompass-1.12.2-1.8.5.jar",
     "modId": "naturescompass",
@@ -1153,6 +1188,13 @@
     "version": "1.3.3",
     "curseForgeHash": 795741046,
     "modrinthHash": "e7e8e2464d5f27b1cf877fedb3ac05ca5b9bcd3d"
+  },
+  "portality-1.12.2-1.2.3-15.jar": {
+    "jarName": "portality-1.12.2-1.2.3-15.jar",
+    "modId": "portality",
+    "version": "1.12.2-1.2.3-15",
+    "curseForgeHash": 4219286471,
+    "modrinthHash": "5cba62b21d486c30afcb4604c656c6cbfabf1d75"
   },
   "potiondescriptions-1.12.2-1.2.4.jar": {
     "jarName": "potiondescriptions-1.12.2-1.2.4.jar",
@@ -1469,6 +1511,13 @@
     "version": "1.12.2-0.0.7",
     "curseForgeHash": 3532806258,
     "modrinthHash": "48f3bab6a916d2323ec7148ff30bdb4dd04b273f"
+  },
+  "valkyrielib-1.12.2-2.0.20.1.jar": {
+    "jarName": "valkyrielib-1.12.2-2.0.20.1.jar",
+    "modId": "valkyrielib",
+    "version": "1.12.2-2.0.20.1",
+    "curseForgeHash": 791322360,
+    "modrinthHash": "e640e231cb83ea9ff7cda8710e6d7c44467b9658"
   },
   "vaultopic-2.2.jar": {
     "jarName": "vaultopic-2.2.jar",
