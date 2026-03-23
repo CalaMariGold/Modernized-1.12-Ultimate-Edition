@@ -152,6 +152,13 @@
     "curseForgeHash": 3577464683,
     "modrinthHash": "a47a3090dd547ab9a3f68ef15df973868d81121f"
   },
+  "astralsorcery-1.12.2-1.10.27.jar": {
+    "jarName": "astralsorcery-1.12.2-1.10.27.jar",
+    "modId": "astralsorcery",
+    "version": "1.12.2-1.10.27",
+    "curseForgeHash": 2344180314,
+    "modrinthHash": "9fa8c82a06e0a1320087f5fa4a5ac48b6ddb75c4"
+  },
   "athenaeum-1.12.2-1.19.6.jar": {
     "jarName": "athenaeum-1.12.2-1.19.6.jar",
     "modId": "athenaeum",
