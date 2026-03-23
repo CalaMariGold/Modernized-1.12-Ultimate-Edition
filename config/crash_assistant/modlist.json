@@ -84,6 +84,13 @@
     "curseForgeHash": 1277871034,
     "modrinthHash": "c2757db9c8b124c6def1f384e6b412e4ce70a5b5"
   },
+  "ae2fc-2.7.10-unofficial.jar": {
+    "jarName": "ae2fc-2.7.10-unofficial.jar",
+    "modId": "ae2fc",
+    "version": "2.7.10-unofficial",
+    "curseForgeHash": 2158002271,
+    "modrinthHash": "ff7ca3f2ff3fb16aa80963020b7daab1e4509329"
+  },
   "ae2stuff-1.12.2-0.10.jar": {
     "jarName": "ae2stuff-1.12.2-0.10.jar",
     "modId": "ae2stuff",
@@ -613,13 +620,6 @@
     "version": "2.3.6",
     "curseForgeHash": 3530130556,
     "modrinthHash": "62e9ab48dae0b6f864f81a400bdef49964a1bf03"
-  },
-  "Fluid Craft for AE2-2.6.6-r.jar": {
-    "jarName": "Fluid Craft for AE2-2.6.6-r.jar",
-    "modId": "ae2fc",
-    "version": "2.6.6-r",
-    "curseForgeHash": 998943625,
-    "modrinthHash": "7b6a06c6396428a94e83a0adce263d1731dc090c"
   },
   "fluxloading-1.4.1.jar": {
     "jarName": "fluxloading-1.4.1.jar",

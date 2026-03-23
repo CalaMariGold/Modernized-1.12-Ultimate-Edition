@@ -15,7 +15,7 @@ difficulty:2
 fancyGraphics:true
 ao:2
 renderClouds:true
-resourcePacks:["ModernityExtra-v1.1.1.zip","ModernityAdjunct-f3-1.6.zip","Modernity-f3-3.10.2.zip","Updated_Engineering_1.12.2_edition.zip","Emis_Rlcraft.zip","LowOnFire_1.12.zip","Boss Bars+ 1.12.zip"]
+resourcePacks:["ModernityExtra-v1.1.1.zip","ModernityAdjunct-f3-1.6.zip","Modernity-f3-3.10.2.zip","Updated_Engineering_1.12.2_edition.zip","BotaniaRevampedLegacy_1.0.0.zip","Emis_Rlcraft.zip","LowOnFire_1.12.zip","Boss Bars+ 1.12.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
