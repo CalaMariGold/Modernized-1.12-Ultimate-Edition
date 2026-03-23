@@ -91,13 +91,6 @@
     "curseForgeHash": 1277156106,
     "modrinthHash": "bee5d1abcb2a5df0535fd217e2c62d3f6cb46803"
   },
-  "aerobind-0.2.6.jar": {
-    "jarName": "aerobind-0.2.6.jar",
-    "modId": "aerobind",
-    "version": "0.2.6",
-    "curseForgeHash": 450993626,
-    "modrinthHash": "d1302e63be9e92196d3213322e7becfe54cb84a8"
-  },
   "alchemistry-1.3.2.jar": {
     "jarName": "alchemistry-1.3.2.jar",
     "modId": "alchemistry",
@@ -851,6 +844,13 @@
     "curseForgeHash": 1500841250,
     "modrinthHash": "5fe85d542f59b39a05cb10ec0645ed3d6ae78cba"
   },
+  "keywizard-1.12.2-1.7.3.jar": {
+    "jarName": "keywizard-1.12.2-1.7.3.jar",
+    "modId": "keywizard",
+    "version": "1.12.2-1.7.3",
+    "curseForgeHash": 4256854238,
+    "modrinthHash": "7a2b6c551a18af294db471c1966add0dd85856cc"
+  },
   "KleeSlabs_1.12.2-5.4.12.jar": {
     "jarName": "KleeSlabs_1.12.2-5.4.12.jar",
     "modId": "kleeslabs",
@@ -1392,6 +1392,13 @@
     "version": "1.12.2-Rfinal-fixed",
     "curseForgeHash": 4204805994,
     "modrinthHash": "33a512d3b0c2cfec17a17710c49c3c28be0f713f"
+  },
+  "techguns-2.1.3.0.jar": {
+    "jarName": "techguns-2.1.3.0.jar",
+    "modId": "techguns",
+    "version": "2.1.3.0",
+    "curseForgeHash": 3031750543,
+    "modrinthHash": "b8ff410c1e726624d657ef5e598334b57418985f"
   },
   "techrot-1.5.jar": {
     "jarName": "techrot-1.5.jar",
