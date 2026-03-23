@@ -306,6 +306,13 @@
     "curseForgeHash": 1794581938,
     "modrinthHash": "6b48020b113f227d92a2d5ea3d763c9bf6196554"
   },
+  "catalogue-1.0.1-1.12.2.jar": {
+    "jarName": "catalogue-1.0.1-1.12.2.jar",
+    "modId": "catalogue",
+    "version": "1.0.1-1.12.2",
+    "curseForgeHash": 1093972245,
+    "modrinthHash": "7d903a9a1be8c87dbf7dad98ef2b80fb563bca32"
+  },
   "cc-tweaked-1.12.2-1.89.2.jar": {
     "jarName": "cc-tweaked-1.12.2-1.89.2.jar",
     "modId": "computercraft",
