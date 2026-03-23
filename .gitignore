@@ -45,3 +45,5 @@ journeymap/data/
 journeymap/journeymap.log
 llibrary/
 voxelmap/cache/
+/config/hbmConfig
+/config/hbmRecipes
