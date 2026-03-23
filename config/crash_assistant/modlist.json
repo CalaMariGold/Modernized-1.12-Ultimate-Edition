@@ -369,6 +369,13 @@
     "curseForgeHash": 2656999452,
     "modrinthHash": "aca4d439b8a7c480217c43ebda60772ef6eb392e"
   },
+  "CongregaMystica-1.12.2-1.0.9 (1).jar": {
+    "jarName": "CongregaMystica-1.12.2-1.0.9 (1).jar",
+    "modId": "congregamystica",
+    "version": "1.0.9",
+    "curseForgeHash": 619517314,
+    "modrinthHash": "a9304f02913df235042e4e79e2ac70419d4ef505"
+  },
   "ContentTweaker-1.12.2-4.10.0.jar": {
     "jarName": "ContentTweaker-1.12.2-4.10.0.jar",
     "modId": "contenttweaker",
@@ -1072,6 +1079,13 @@
     "curseForgeHash": 1973696387,
     "modrinthHash": "a26586467433467ba4b1f1bb0acdeabb7ed2fa67"
   },
+  "New-Crimson-Revelations-1.12.2-1.5.2 (1).jar": {
+    "jarName": "New-Crimson-Revelations-1.12.2-1.5.2 (1).jar",
+    "modId": "crimsonrevelations",
+    "version": "1.5.2",
+    "curseForgeHash": 365861742,
+    "modrinthHash": "b89ca6d423ce7916e66331156c5d846fd2a019bb"
+  },
   "NoiseThreader-1.1.3.jar": {
     "jarName": "NoiseThreader-1.1.3.jar",
     "modId": "noisethreader",
@@ -1210,6 +1224,13 @@
     "curseForgeHash": 2407945840,
     "modrinthHash": "67f4a97730f5862566637cda03bf0c0ecb39dc7d"
   },
+  "Psi-r1.1-79.jar": {
+    "jarName": "Psi-r1.1-79.jar",
+    "modId": "psi",
+    "version": "r1.1-78",
+    "curseForgeHash": 1904515679,
+    "modrinthHash": "40855b0782b1c62a482215abf675da3465144cfb"
+  },
   "QuarkOddities-1.12.2.jar": {
     "jarName": "QuarkOddities-1.12.2.jar",
     "curseForgeHash": 4267477614,
@@ -1341,6 +1362,13 @@
     "curseForgeHash": 1065391211,
     "modrinthHash": "53b09b6c9a054cf3523204353212b72e77d7d155"
   },
+  "rpsideas-2.4.4.jar": {
+    "jarName": "rpsideas-2.4.4.jar",
+    "modId": "rpsideas",
+    "version": "2.4.4",
+    "curseForgeHash": 1368051156,
+    "modrinthHash": "517dd3542be815f2b7da062a21af155cf1843dc4"
+  },
   "Scalar Legacy-1.0.1.jar": {
     "jarName": "Scalar Legacy-1.0.1.jar",
     "modId": "scalar",
@@ -1448,6 +1476,76 @@
     "version": "1.5",
     "curseForgeHash": 2322328934,
     "modrinthHash": "f8db9afdf5a8b05b1dc1e536f0b89b5923b56045"
+  },
+  "Thaumcraft-1.12.2-6.1.BETA26.jar": {
+    "jarName": "Thaumcraft-1.12.2-6.1.BETA26.jar",
+    "modId": "thaumcraft",
+    "version": "1.12.2-6.1.BETA26",
+    "curseForgeHash": 1607642850,
+    "modrinthHash": "fe0899048f1796df04e9727bbf1898df30492a00"
+  },
+  "ThaumcraftFix-1.12.2-1.1.9.jar": {
+    "jarName": "ThaumcraftFix-1.12.2-1.1.9.jar",
+    "modId": "thaumcraftfix",
+    "version": "1.12.2-1.1.9",
+    "curseForgeHash": 2661214910,
+    "modrinthHash": "178ea6a2e2667d0d880eefe8a55cd273c16a57c8"
+  },
+  "thaumic-energistics-extended-life-1.12.2-2.3.5.jar": {
+    "jarName": "thaumic-energistics-extended-life-1.12.2-2.3.5.jar",
+    "modId": "thaumicenergistics",
+    "version": "2.3.5",
+    "curseForgeHash": 3065714170,
+    "modrinthHash": "0440d038e7a0f68281ffb5ce51689fbda773fc84"
+  },
+  "ThaumicAugmentation-1.12.2-2.1.14.jar": {
+    "jarName": "ThaumicAugmentation-1.12.2-2.1.14.jar",
+    "modId": "thaumicaugmentation",
+    "version": "1.12.2-2.1.14",
+    "curseForgeHash": 965509518,
+    "modrinthHash": "376843864b9b7c117d4aa98c24c227a76b2d4fde"
+  },
+  "ThaumicInventoryScanning_1.12.2-2.0.10.jar": {
+    "jarName": "ThaumicInventoryScanning_1.12.2-2.0.10.jar",
+    "modId": "tcinventoryscan",
+    "version": "2.0.10",
+    "curseForgeHash": 1964344708,
+    "modrinthHash": "639253ac9c8aa30efaadeb9893ebb77d1b96a64c"
+  },
+  "ThaumicJEI-1.12.2-1.7.0.jar": {
+    "jarName": "ThaumicJEI-1.12.2-1.7.0.jar",
+    "modId": "thaumicjei",
+    "version": "1.12.2-1.7.0",
+    "curseForgeHash": 4243220107,
+    "modrinthHash": "859b30c956a1cc6e5985b22cfdd7af138c747562"
+  },
+  "thaumicperiphery-0.3.1.jar": {
+    "jarName": "thaumicperiphery-0.3.1.jar",
+    "modId": "thaumicperiphery",
+    "version": "0.3.1",
+    "curseForgeHash": 712648954,
+    "modrinthHash": "4c1e3d1fd50d4d4379f90c2d9a66e9493944d6e8"
+  },
+  "thaumictinkerer-1.12.2-5.0-620a0c5.jar": {
+    "jarName": "thaumictinkerer-1.12.2-5.0-620a0c5.jar",
+    "modId": "thaumictinkerer",
+    "version": "1.12.2-5.0-620a0c5",
+    "curseForgeHash": 3105742345,
+    "modrinthHash": "a1aa3c6d895539c2d4cb8413ac1f54dddb4aff0f"
+  },
+  "thaumictweaker-1.2.4 (1).jar": {
+    "jarName": "thaumictweaker-1.2.4 (1).jar",
+    "modId": "thaumictweaker",
+    "version": "1.2.4",
+    "curseForgeHash": 4052654224,
+    "modrinthHash": "fe9c80355ea3db885a909900975683ab191e8eca"
+  },
+  "thaumicwonders-2.2.4.jar": {
+    "jarName": "thaumicwonders-2.2.4.jar",
+    "modId": "thaumicwonders",
+    "version": "2.2.4",
+    "curseForgeHash": 2509867258,
+    "modrinthHash": "62592a643dfaf76ce69e151c66c452d28029fca2"
   },
   "The Depths of Madness - 0.2.jar": {
     "jarName": "The Depths of Madness - 0.2.jar",
