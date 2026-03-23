@@ -785,8 +785,8 @@
       ],
       "duration": 600,
       "folders": [
-        "hbm:journal_pip",
-        "hbm:journal_bj"
+        "hbm:journal_bj",
+        "hbm:journal_pip"
       ]
     },
     {
