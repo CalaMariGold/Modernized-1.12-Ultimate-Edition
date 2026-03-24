@@ -837,6 +837,27 @@
     "curseForgeHash": 540553186,
     "modrinthHash": "35d99910ee7f813fdc8da25cf38f23fe2b2dca03"
   },
+  "ImmersiveEngineering-0.12-98.jar": {
+    "jarName": "ImmersiveEngineering-0.12-98.jar",
+    "modId": "immersiveengineering",
+    "version": "0.12-98",
+    "curseForgeHash": 3177475693,
+    "modrinthHash": "633070d9c447fdaf6a9ead59425017815c890c63"
+  },
+  "immersiveintelligence-0.3.1-dev2.jar": {
+    "jarName": "immersiveintelligence-0.3.1-dev2.jar",
+    "modId": "immersiveintelligence",
+    "version": "0.3.1-dev2",
+    "curseForgeHash": 1170023260,
+    "modrinthHash": "4676f6944b6387c0a071cfcc439f27faad7edbb0"
+  },
+  "immersivepetroleum-1.12.2-1.1.10.jar": {
+    "jarName": "immersivepetroleum-1.12.2-1.1.10.jar",
+    "modId": "immersivepetroleum",
+    "version": "1.1.10",
+    "curseForgeHash": 4029569122,
+    "modrinthHash": "dd0ec378fef19acc7cf649be13ced76aa72e42ac"
+  },
   "Into The End - 1.2 HotFix.jar": {
     "jarName": "Into The End - 1.2 HotFix.jar",
     "modId": "ee",
@@ -1149,12 +1170,12 @@
     "curseForgeHash": 1143501325,
     "modrinthHash": "b70d60e9ebd5e84962c4ddd6abfd2bbde178cafb"
   },
-  "NTM-CE-1.12.2-2.1.1.0.jar": {
-    "jarName": "NTM-CE-1.12.2-2.1.1.0.jar",
+  "ntm-ce-2.2.0.0.jar": {
+    "jarName": "ntm-ce-2.2.0.0.jar",
     "modId": "hbm",
-    "version": "2.1.1.0",
-    "curseForgeHash": 411941580,
-    "modrinthHash": "d407259ded72e2d57a9bae796827a8a03e28d5ff"
+    "version": "2.2.0.0",
+    "curseForgeHash": 2676858292,
+    "modrinthHash": "43cc1f42cb876dde4f38ce29db992c76c12a57dd"
   },
   "OceanicExpanse-1.2.2.jar": {
     "jarName": "OceanicExpanse-1.2.2.jar",
@@ -1645,6 +1666,13 @@
     "curseForgeHash": 4171792973,
     "modrinthHash": "6f03ff21bdddf9bbf2f627b82620962ab99de667"
   },
+  "UniDict-1.12.2-3.0.10.jar": {
+    "jarName": "UniDict-1.12.2-3.0.10.jar",
+    "modId": "unidict",
+    "version": "1.12.2-3.0.10",
+    "curseForgeHash": 1113472475,
+    "modrinthHash": "2b72e49682aca50fa55522c5080f2ba20173c565"
+  },
   "UniversalTweaks-1.12.2-1.18.0.jar": {
     "jarName": "UniversalTweaks-1.12.2-1.18.0.jar",
     "modId": "universaltweaks",
@@ -1700,6 +1728,13 @@
     "version": "0.6.2",
     "curseForgeHash": 1319026169,
     "modrinthHash": "eb820c6e58a4d091b80311a28650c7a1b99a1b14"
+  },
+  "WanionLib-1.12.2-2.91.jar": {
+    "jarName": "WanionLib-1.12.2-2.91.jar",
+    "modId": "wanionlib",
+    "version": "1.12.2-2.91",
+    "curseForgeHash": 3427414774,
+    "modrinthHash": "68196be7d926aee4fe8b5c0d535909c5b2ce3f2c"
   },
   "Waystones_1.12.2-4.1.0.jar": {
     "jarName": "Waystones_1.12.2-4.1.0.jar",
