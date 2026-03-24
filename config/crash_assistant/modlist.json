@@ -292,6 +292,13 @@
     "curseForgeHash": 3912380665,
     "modrinthHash": "ba66aa486fec607c3223273af038c97625b34b90"
   },
+  "BrandonsCore-1.12.2-2.4.20.162-universal.jar": {
+    "jarName": "BrandonsCore-1.12.2-2.4.20.162-universal.jar",
+    "modId": "brandonscore",
+    "version": "1.12.2-2.4.20.22",
+    "curseForgeHash": 960878632,
+    "modrinthHash": "f6035eb93d9c7b91334ed7bfc17ed36c8c9d86c8"
+  },
   "brigo_forge-1.1.1+1.12.x.jar": {
     "jarName": "brigo_forge-1.1.1+1.12.x.jar",
     "modId": "brigo",
@@ -382,6 +389,13 @@
     "version": "3.1.11",
     "curseForgeHash": 3397426670,
     "modrinthHash": "c6c31bc3e10fe8da49cb37088ec3d0e8d481ad46"
+  },
+  "CodeChickenLib-1.12.2-3.2.3.358-universal.jar": {
+    "jarName": "CodeChickenLib-1.12.2-3.2.3.358-universal.jar",
+    "modId": "codechickenlib",
+    "version": "3.2.3.358",
+    "curseForgeHash": 2940918666,
+    "modrinthHash": "b6a7e3b889c354216059a3bfad298e30a1e46a2d"
   },
   "collective-1.12.2-3.0.jar": {
     "jarName": "collective-1.12.2-3.0.jar",
@@ -501,6 +515,13 @@
     "version": "1.0.0",
     "curseForgeHash": 3361771210,
     "modrinthHash": "f85fe598a0e9e2b7439622ea0f135f95c47651b6"
+  },
+  "Draconic-Evolution-1.12.2-2.3.28.354-universal.jar": {
+    "jarName": "Draconic-Evolution-1.12.2-2.3.28.354-universal.jar",
+    "modId": "draconicevolution",
+    "version": "1.12.2-2.3.28.193",
+    "curseForgeHash": 3391923374,
+    "modrinthHash": "aa952832b369ff12a26ef608ee7a001b687ca226"
   },
   "dropt-1.12.2-1.19.4.jar": {
     "jarName": "dropt-1.12.2-1.19.4.jar",
@@ -760,6 +781,13 @@
     "curseForgeHash": 3555440608,
     "modrinthHash": "27963c0d6bdac680ebb4f48249c485e7114dada9"
   },
+  "groovyscript-1.4.0.jar": {
+    "jarName": "groovyscript-1.4.0.jar",
+    "modId": "groovyscript",
+    "version": "1.4.0",
+    "curseForgeHash": 88601322,
+    "modrinthHash": "b7f2ef42c25faa21b8edcc7a4158869c5520574d"
+  },
   "HadEnoughItems_1.12.2-4.29.15.jar": {
     "jarName": "HadEnoughItems_1.12.2-4.29.15.jar",
     "modId": "jei",
@@ -822,6 +850,13 @@
     "version": "1.8.26",
     "curseForgeHash": 637705220,
     "modrinthHash": "7280d5c0dab42436549bcefc63ff64a1049e5501"
+  },
+  "Hyxcate-1.12.2-1.1.2.jar": {
+    "jarName": "Hyxcate-1.12.2-1.1.2.jar",
+    "modId": "nyx",
+    "version": "1.1.2",
+    "curseForgeHash": 88615670,
+    "modrinthHash": "2e21a8efe7747ab3d2fd88ddf5f983f9f650c54b"
   },
   "Ice and Fire-2.2.6.jar": {
     "jarName": "Ice and Fire-2.2.6.jar",
@@ -1004,6 +1039,13 @@
     "version": "beta 0.5.3a",
     "curseForgeHash": 2357492593,
     "modrinthHash": "c8a4482b470df99629218241c581b2fd1cbd815b"
+  },
+  "mcjtylib-1.12-3.5.4.jar": {
+    "jarName": "mcjtylib-1.12-3.5.4.jar",
+    "modId": "mcjtylib_ng",
+    "version": "1.12-3.5.4",
+    "curseForgeHash": 285741512,
+    "modrinthHash": "8f3e381c4aea651f55ed1cd35fd69613fcd7f9da"
   },
   "Mclogs-forge-1.0.5-for-1.12.2.jar": {
     "jarName": "Mclogs-forge-1.0.5-for-1.12.2.jar",
@@ -1355,6 +1397,13 @@
     "curseForgeHash": 2082043449,
     "modrinthHash": "89a789e7af4bdb3b8120c5c3efc6a7f30779b7fb"
   },
+  "RedstoneFlux-1.12-2.1.1.1-universal.jar": {
+    "jarName": "RedstoneFlux-1.12-2.1.1.1-universal.jar",
+    "modId": "redstoneflux",
+    "version": "2.1.1.1",
+    "curseForgeHash": 1893256567,
+    "modrinthHash": "7835c1dcc006e5d4a406a6b0615012b825e25044"
+  },
   "refraction-1.12.2-2.0.5.jar": {
     "jarName": "refraction-1.12.2-2.0.5.jar",
     "modId": "refraction",
@@ -1389,6 +1438,25 @@
     "version": "1.1.1",
     "curseForgeHash": 3521091811,
     "modrinthHash": "127cec9f0b942e3f4a41e831c2f022725722e6ae"
+  },
+  "rftools-1.12-7.73.jar": {
+    "jarName": "rftools-1.12-7.73.jar",
+    "modId": "rftools",
+    "version": "1.12-7.73",
+    "curseForgeHash": 2954177313,
+    "modrinthHash": "16a4e8c1907bdaac546ab3fd56904d202da427f3"
+  },
+  "rftoolsdim-1.12-5.71.jar": {
+    "jarName": "rftoolsdim-1.12-5.71.jar",
+    "modId": "rftoolsdim",
+    "version": "1.12-5.71",
+    "curseForgeHash": 3460983520,
+    "modrinthHash": "b81ef316b40bf3a0aad41be0903563ef965ca289"
+  },
+  "rftoolspower-1.12-1.2.0.jar": {
+    "jarName": "rftoolspower-1.12-1.2.0.jar",
+    "curseForgeHash": 2353472270,
+    "modrinthHash": "5b9d525fdec2100f9e651e55a69a28c2244e8f3c"
   },
   "RLFoliage-MC1.12-2.5.3.jar": {
     "jarName": "RLFoliage-MC1.12-2.5.3.jar",
