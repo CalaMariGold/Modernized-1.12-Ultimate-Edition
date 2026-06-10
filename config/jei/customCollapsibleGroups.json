@@ -1,0 +1,11 @@
+[
+  {
+    "id": "custom:1830cc72",
+    "displayName": "RF Tools Syringe",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "rftools:syringe"
+    ]
+  }
+]
