@@ -1984,6 +1984,14 @@
     "curseForgeHash": 3433725586,
     "modrinthHash": "d5d6d5d0e128edd0db0458a74ceea919aea29c2c"
   },
+  "TracesOfTheFallen-1.0.1.jar": {
+    "jarName": "TracesOfTheFallen-1.0.1.jar",
+    "modId": "totf",
+    "name": "Traces of the Fallen",
+    "version": "1.0.1",
+    "curseForgeHash": 2669438994,
+    "modrinthHash": "07fca6abd3c503b9303bfafd30f80a9a22c90674"
+  },
   "Traders-Backport-1.12.2-1.0.2.jar": {
     "jarName": "Traders-Backport-1.12.2-1.0.2.jar",
     "modId": "traders",
